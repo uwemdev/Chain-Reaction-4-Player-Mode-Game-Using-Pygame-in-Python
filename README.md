@@ -1,14 +1,7 @@
-Of course! The provided text has some inconsistencies (it describes a "Chain Reaction" game but then details a "Tetris" game in the features and about section). I have created a clean, professional, and accurate README.md based on the core premise of a **Chain Reaction 4 Player Mode Game**.
-
-I've corrected the conflicting information, focusing solely on the Chain Reaction game you described at the beginning.
-
----
-
 # Chain Reaction 4 Player Game
 
 An interactive and strategic desktop game built with **Python** and the **Pygame** library. Challenge your friends in this exciting 4-player adaptation of the classic Chain Reaction game.
 
-![Chain Reaction Game Screenshot](screenshot.png) *// Replace `screenshot.png` with an actual image of your game*
 
 ## About the Game
 
@@ -75,6 +68,3 @@ Follow these steps to get the game running on your machine:
 
 This project was developed for educational purposes. The source code is free to use and modify. Enjoy learning and coding!
 
----
-
-**Enjoy the game and happy coding!**
